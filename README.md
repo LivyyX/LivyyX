@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @LivyyX
-- 👀 I’m interested in Python, Django & gamedev
+- 👀 I’m interested in Python, Ai models, Django & gamedev
 - 🌱 I’m currently learning Django
 - 💞️ I’m looking to collaborate on fantastic projects
 - ⚡ Fun fact: Your cats will eat you 7 hours after you die :)
