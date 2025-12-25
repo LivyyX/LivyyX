@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @LivyyX
-- 👀 I’m interested in Python, Ai models, Django & gamedev
-- 🌱 I’m currently learning PyTorch
-- 💞️ I’m looking to collaborate on fantastic projects
+- 👀 I’m interested in Python, Ai models & gamedev
+- 🌱 I’m currently learning ML algorithms
 - ⚡ Fun fact: Your cats will eat you 7 hours after you die :)
 
 <!---
